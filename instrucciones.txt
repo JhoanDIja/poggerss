@@ -1,0 +1,12 @@
+Hey! Bienvenido a las instrucciones de 3 y 2 un juego bastante
+popular de cartas se juega de la siguiente manera:
+1) escoges una carta de el mazo principal o de la zona de tiro
+2) luego simplemente tiras una de las tuyas recuerda que el punto del juego es tener
+un par de un conjunto y un trio de otro.
+3) gana el que tenga el conjunto primero
+4) puedes tirar cualquier carta que tengas!
+5) Lo ideal seria que tu oponente no vea las cartas que tu tengas
+6) Suerte en contra de tu oponente.
+
+Ahora que te sabes las reglas ¿Estas listo para jugar?
+(Y/N)
